@@ -34,7 +34,7 @@ where: T-CAIREM
   Predicting long-term patient survival after admission is crucial for improving palliative care and initiating goals of care discussions. Previous research successfully predicted the Hospital-patient One-year Mortality Risk for all causes using routine
   admission data, but overlooked valuable temporal information from a patient’s multiple hospital visits. Our study proposes to
   leverage patients’ longitudinal data to predict one-year mortality risk at admission. Our code is publicly available on: https://
-  github.com/MEDomics-UdeS/POYM
+  github.com/MEDomicsLab/POYM
 
   **Methods**
 

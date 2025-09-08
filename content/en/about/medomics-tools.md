@@ -10,7 +10,7 @@ design:
   css_class: null
 
 cta:
-  url: https://github.com/MEDomics-UdeS/MEDomicsTools
+  url: https://github.com/MEDomicsLab/MEDomicsTools
   label: Check out MEDomicsTools
   icon_pack: fas
   icon: code

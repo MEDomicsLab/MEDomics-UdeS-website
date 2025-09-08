@@ -26,7 +26,7 @@ The MEDomicsLab research laboratory focuses on the development of predictive mod
 </div>
   
   <div style="text-align: left; white-space: nowrap; display: flex; align-items: center; margin-left: auto;">
-  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomics-UdeS" target="_blank" rel="noopener noreferrer">
+  <a class="fa-brands fa-square-github fa-2x" href="https://github.com/MEDomicsLab" target="_blank" rel="noopener noreferrer">
     <small style="font-family: FontAwesome; align-self: flex-end;font-size: xx-large;"> GitHub </small>
   </a>
   <a class="medomicsplatformsite fa-2x" href="https://www.medomics.app/" target="_blank" rel="noopener noreferrer" 
