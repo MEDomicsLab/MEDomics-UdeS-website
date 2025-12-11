@@ -1,5 +1,5 @@
 ---
-title: "Presentation : MEDfl: A Collaborative Framework for Federated Learning in Medicine  "
+title: "Presentation : MEDfl: A Collaborative Framework for Federated Learning in Medicine"
 date: 2025-11-14
 image:
   focal_point: 'top'
