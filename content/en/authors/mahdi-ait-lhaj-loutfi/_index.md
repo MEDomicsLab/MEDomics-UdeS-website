@@ -27,8 +27,8 @@ interests:
 education:
   courses:
     - course: Ph. D. Biological & Biomedical Engineering
-        institution: McGill University, Montreal, Canada
-        year: 2026-
+      institution: McGill University, Montreal, Canada
+      year: 2026-
     - course: M. Sc. Computer science
       institution: Université de Sherbrooke, Sherbrooke, Canada
       year: 2021-2024
