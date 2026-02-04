@@ -1,5 +1,5 @@
 ---
-title: "Project: Development of the MEDimage package"
+title: "Project: Development of the MEDiml package"
 
 type: book
 
@@ -11,7 +11,7 @@ authors:
   - Mohammed Benabbassi
 ---
 
-![Schematic diagram of the MEDimage package](medimage-overview.png "Schematic diagram of the MEDimage package")
+![Schematic diagram of the MEDiml package](medimage-overview.png "Schematic diagram of the MEDiml package")
 
 ## Status
 
@@ -33,10 +33,10 @@ General
 
 ## Description
 
-[MEDimage](https://github.com/MahdiAll99/MEDimage) is an _open-source_ software for medical image processing and radiomic calculations. It was created by our laboratory in collaboration with the international consortium of medical scientists (<https://medomics.ai>). The software is based on the Python programming language and built with different layers of flexibility via modules, classes and parameters otpion that allow to load, process, medical images and calculate radiomic features from them. The intrinsic workflow of MEDimage is designed to be adequate to these tasks and offers a [documentation](https://medimage.readthedocs.io/en/latest/) rich in tutorials, demonstrations and instructions that are able to introduce novice users to the software. With this software, we aim to provide an open-source platform tested, maintained and standardized with the international norms defined by the [IBSI](https://theibsi.github.io/) for easy and reproducible image processing and radiomics extraction.
+[MEDiml](https://github.com/MEDomicsLab/MEDiml) is an _open-source_ software for medical image processing and radiomic calculations. It was created by our laboratory in collaboration with the international consortium of medical scientists (<https://medomics.ai>). The software is based on the Python programming language and built with different layers of flexibility via modules, classes and parameters otpion that allow to load, process, medical images and calculate radiomic features from them. The intrinsic workflow of MEDiml is designed to be adequate to these tasks and offers a [documentation](https://mediml.readthedocs.io/en/latest/) rich in tutorials, demonstrations and instructions that are able to introduce novice users to the software. With this software, we aim to provide an open-source platform tested, maintained and standardized with the international norms defined by the [IBSI](https://theibsi.github.io/) for easy and reproducible image processing and radiomics extraction.
 
   Here is a video made by our intern [Corentin Gauthier]({{< relref "/authors/corentin-gauthier" >}}) 
-  which presents what he realized during his internship as well as the MEDimage project.
+  which presents what he realized during his internship as well as the MEDiml project.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODJ3TD5H11Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

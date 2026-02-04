@@ -32,13 +32,13 @@ where: CIRIUS
   d’image médicale. Cette analyse donnera une capacité à faire des prédictions phénotypiques tumorales 
   précises. L’extraction des caractéristiques des tissus à partir des images médicales est connue sous 
   le nom de « analyse radiomique ». C’est dans cette optique que notre équipe, en partenariat avec un 
-  consortium international nommé MEDomics, développe un logiciel codé en Python : MEDimage. Ce logiciel 
+  consortium international nommé MEDomics, développe un logiciel codé en Python : MEDiml. Ce logiciel 
   offre des paramètres flexibles pour garantir un produit adapté aux besoins des utilisateurs afin de 
   traiter les images médicales (p. ex. filtrage, recadrage) et extraire des caractéristiques radiomiques 
   de façon efficiente. La validation de ces analyses d’images demeure cependant un défi majeur. Par 
   conséquent, nous avons intégré les procédures établies par l’Initiative Internationale pour la 
-  Standardisation des Biomarqueurs (IBSI) à notre logiciel MEDimage. Nos résultats montrent un consensus 
-  avec la majorité des collaborateurs de l’IBSI. Une version de MEDimage a été déjà publiée et sera testée 
+  Standardisation des Biomarqueurs (IBSI) à notre logiciel MEDiml. Nos résultats montrent un consensus 
+  avec la majorité des collaborateurs de l’IBSI. Une version de MEDiml a été déjà publiée et sera testée 
   par plusieurs collaborateurs afin de s’assurer du bon fonctionnement du code et de la compatibilité des 
   besoins des utilisateurs avec les possibilités offertes par cette technologie. Il est attendu que cet outil 
   permettant d’extraire des caractéristiques radiomiques, à la fois riches et complexes, soit utilisé pour mener 

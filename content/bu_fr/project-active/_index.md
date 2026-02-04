@@ -20,7 +20,7 @@ banner:
 ### Général
 
 - [Dévelopement de la plateforme _MEDomicsLab_]({{< relref "medomicslab" >}})
-- [Développement du logiciel  _MEDimage_]({{< relref "medimage" >}})
+- [Développement du logiciel  _MEDiml_]({{< relref "mediml" >}})
 
 ### Doctorat
 
