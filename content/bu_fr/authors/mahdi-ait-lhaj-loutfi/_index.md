@@ -65,4 +65,4 @@ user_groups:
   - Auxiliaires de recherche et stagiaires
 ---
 
-Mahdi Ait Lhaj Loutfi est professionnel de recherche au sein du laboratoire MEDomics UdeS, où il travaille sur le développement de la plateforme MEDomicsLab. Il a terminé sa maîtrise en 2024, avec un projet de recherche axé sur l’exploration de la complexité des caractéristiques radiomiques. Il est également le principal architecte et responsable du maintien du package MEDimage, un composant essentiel de MEDomicsLab.
+Mahdi Ait Lhaj Loutfi est professionnel de recherche au sein du laboratoire MEDomics UdeS, où il travaille sur le développement de la plateforme MEDomicsLab. Il a terminé sa maîtrise en 2024, avec un projet de recherche axé sur l’exploration de la complexité des caractéristiques radiomiques. Il est également le principal architecte et responsable du maintien du package MEDiml, un composant essentiel de MEDomicsLab.

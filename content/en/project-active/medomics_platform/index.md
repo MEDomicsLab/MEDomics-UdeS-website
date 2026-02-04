@@ -103,7 +103,7 @@ General
 [//]: # (built from these databases:)
 
 [//]: # ()
-[//]: # (1. _Image analysis_: extraction of radiomic features allows us to better characterize tumor heterogeneity. The [MEDimage]&#40;{{< relref "medimage" >}}&#41; package is the dedicated component for this task.)
+[//]: # (1. _Image analysis_: extraction of radiomic features allows us to better characterize tumor heterogeneity. The [MEDiml]&#40;{{< relref "mediml" >}}&#41; package is the dedicated component for this task.)
 
 [//]: # (2. _Machine learning_: some learning techniques allow us to better combine data from different categories &#40;such as multi-omics&#41;.)
 

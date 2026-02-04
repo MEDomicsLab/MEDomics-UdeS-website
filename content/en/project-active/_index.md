@@ -20,7 +20,7 @@ banner:
 ### General
 
 - [Development of the _MEDomics_ platform]({{< relref "medomics_platform" >}})
-- [Development of the _MEDimage_ package]({{< relref "medimage" >}})
+- [Development of the _MEDimage_ package]({{< relref "mediml" >}})
 
 ### Doctorate
 

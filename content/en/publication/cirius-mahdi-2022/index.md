@@ -31,13 +31,13 @@ where: CIRIUS
   quantitative medical image analysis. This analysis will help make accurate tumor phenotypic 
   predictions. The extraction of the tissues characteristics from medical images is known as 
   "radiomic analysis". In this regard, our team, in collaboration with an international 
-  consortium called MEDomics, is developing a Python-coded software called MEDimage. This 
+  consortium called MEDomics, is developing a Python-coded software called MEDiml. This 
   software offers flexible parameters to ensure a product adapted to the users needs to 
   process medical images (e.g. filtering, cropping) and to extract radiomic features in an 
   efficient way. However, validation of these image analyses remains a major challenge. 
   Therefore, we integrated the procedures established by the International Biomarker Standardization 
-  Initiative (IBSI) into our MEDimage software. Our results are compliant with the IBSI. A version 
-  of MEDimage has already been released and will be tested by several collaborators to ensure the 
+  Initiative (IBSI) into our MEDiml software. Our results are compliant with the IBSI. A version 
+  of MEDiml has already been released and will be tested by several collaborators to ensure the 
   correct functioning of the package and the compatibility of the user needs with the possibilities 
   offered by this technology. It is expected that this tool made for extracting rich and complex 
   radiomic features will be used to conduct multicentric studies in precision oncology.
