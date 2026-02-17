@@ -7,25 +7,28 @@ nickname: M. Amine Bezzahi
 superuser: false
 
 # Role/position
-role: Ancien stagiaire
+role: Étudiant (M. Sc. Génie Logiciel)
 
 # Organizations/Affiliations
 organizations:
-  - name: Ecole supérieure d’informatique d’Alger
-    url: 'https://www.esi.dz/'
+  - name: Université de Sherbrooke
+    url: 'https://www.usherbrooke.ca/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 
 interests:
-    - Intelligence Artificielle
+    - Apprantissage profond
     - Vision par ordinateur
-    - Informatique de la santé
     - Imagerie médicale
+    - Santé digitale
 
 education:
   courses:
+    - course: M. Sc. Génie Logiciel
+      institution: Université de Sherbrooke, Sherbrooke, Canada
+      year: 2025-2027
     - course: Diplôme d'ingénieur, Maîtrise en informatique
       institution: École nationale Supérieure d'Informatique, Alger, Algérie
       year: 2019-2024
@@ -37,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hm_bezzahi@esi.dz'
+    link: 'mailto:moustafa.amine.bezzahi@usherbrooke.ca'
   - icon: github
     icon_pack: fab
     link: https://github.com/mus-bz
@@ -56,7 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Anciens membres (2024)
+  - Étudiants et étudiantes (M. Sc.)
 ---
 
-Moustafa a effectué un stage dans le laboratoire MEDomics UdeS de Novembre 2023 à Aoùt 2024. Il a travaillé sur la détection automatique des petites masses rénales en Imagerie médicale de CHUS. Il était co-encadré par Dr Partick Richard et Pr Martin Vallières.
+Moustafa est étudiant en Master au sein du MEDomicsLab depuis 2025. Auparavant, il a effectué un stage de recherche de novembre 2023 à août 2024. Au cours de ce stage, il a développé un pipeline dédié à la détection et à la caractérisation automatiques des petites masses rénales à partir de données d’imagerie Tomodensitométrique (TDM).
+
+Ses travaux actuels portent sur l’identification des stratégies de segmentation optimales ainsi que sur le développement de modèles de classification multitâches. Il conçoit également une application de bout en bout visant à assister les radiologues et les urologues dans la prise de décision en oncologie urologique. Cette solution a vocation à être intégrée à la plateforme MEDomics.
