@@ -19,7 +19,7 @@ bio:
 
 
 interests:
-    - Apprantissage profond
+    - Apprentissage profond
     - Vision par ordinateur
     - Imagerie médicale
     - Santé digitale
@@ -62,6 +62,6 @@ user_groups:
   - Étudiants et étudiantes (M. Sc.)
 ---
 
-Moustafa est étudiant en Master au sein du MEDomicsLab depuis 2025. Auparavant, il a effectué un stage de recherche de novembre 2023 à août 2024. Au cours de ce stage, il a développé un pipeline dédié à la détection et à la caractérisation automatiques des petites masses rénales à partir de données d’imagerie Tomodensitométrique (TDM).
+Moustafa est étudiant à la maitrise dans le laboratoire MEDomicsLab depuis 2025. Auparavant, il a effectué un stage de recherche de novembre 2023 à août 2024. Au cours de ce stage, il a développé un pipeline dédié à la détection et à la caractérisation automatiques des petites masses rénales à partir de données d’imagerie Tomodensitométrique (TDM).
 
 Ses travaux actuels portent sur l’identification des stratégies de segmentation optimales ainsi que sur le développement de modèles de classification multitâches. Il conçoit également une application de bout en bout visant à assister les radiologues et les urologues dans la prise de décision en oncologie urologique. Cette solution a vocation à être intégrée à la plateforme MEDomics.
