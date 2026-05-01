@@ -7,7 +7,7 @@ nickname: A. Falk
 superuser: false
 
 # Role/position
-role: Intern
+role: Former intern
 
 # Organizations/Affiliations
 organizations:
@@ -59,10 +59,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants and Interns
+  - Former Members (2025)
 ---
 
-Anthonin Falk is completing an internship in artificial intelligence applied to medical imaging from 
-April to September 2025. He is working on reducing the complexity and improving the 
+Anthonin Falk completed an internship in artificial intelligence applied to medical imaging from 
+April to September 2025. He was working on reducing the complexity and improving the 
 interpretability of a predictive model designed to determine which patients are most likely to suffer 
 side effects during radiotherapy treatment. 
